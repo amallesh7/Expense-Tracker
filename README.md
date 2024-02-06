@@ -1,5 +1,3 @@
-Below is the documentation for the provided Expense Tracker application in terms of design and features:
-
 ### Expense Tracker Documentation
 
 #### Overview
